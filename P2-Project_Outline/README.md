@@ -8,6 +8,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+This project is an app that is designed for 
+
 ### Features
 Include Features here
 ### Technologies
